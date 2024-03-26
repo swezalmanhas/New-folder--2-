@@ -1,0 +1,31 @@
+.footer{
+    
+    background-image: var(--second-gradient);
+    border-top: 1px solid rgba(255, 255, 255, 0.151);
+    padding-block: 50px;
+
+}
+.footer__container{
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+}
+.footer__social{
+    display: flex;
+    column-gap: 20px;
+  
+}
+
+.footer__social-link{
+    color: var(--title-color);
+    font-size: var(--h5-font-size);
+    transition: all 0.7s var(--transition);
+
+}
+
+.footer__social-link:hover {
+    color: var(--primary-color);
+}
+.footer__container span{
+    color: var(--primary-color);
+}
+
