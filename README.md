@@ -1,6 +1,6 @@
-Here's your updated README with emojis and a more visually appealing structure:
 
----
+
+
 
 # 🌟 Swezal's Portfolio 🌟
 
